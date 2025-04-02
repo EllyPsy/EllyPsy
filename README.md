@@ -14,7 +14,11 @@
 <a href="https://linkedin.com/in/elly-cheng-wang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elly-cheng-wang" height="30" width="40" /></a>
 </p>
 
-I am currently a Ph.D. candidate in Environmental Science, Policy and Management (Sustainability Education) at The Hong Kong University of Science and Technology (HKUST), working under the guidance of Prof. Tai Kai NG and Prof. Alexis LAU. I learned my Master of Social Science in Psychology (Educational Stream) from the City University of Hong Kong (CityU) and my Master of Science in Sustainable Urban Development from The Hong Kong Polytechnic University, and I received my Bachelor of Arts in Environmental Design from Nanjing Forestry University. I have also gained valuable hands-on research experience through my roles as a research assistant at HKUST and CityU, and a research intern at The University of Hong Kong, contributing to projects that explore AI-assisted educational psychology and innovative learning environments.
+I am currently a Ph.D. candidate in Environmental Science, Policy and Management (Sustainability Education) at The Hong Kong University of Science and Technology (HKUST), working under the guidance of Prof. Tai Kai NG and Prof. Alexis LAU.
+
+I learned my Master of Social Science in Psychology (Educational Stream) from The City University of Hong Kong (CityU) and my Master of Science in Sustainable Urban Development from The Hong Kong Polytechnic University, and I received my Bachelor of Arts in Environmental Design from Nanjing Forestry University.
+
+I have also gained valuable hands-on research experience through my roles as a research assistant at HKUST and CityU, and a research intern at The University of Hong Kong and The Chinese University of Hong Kong, contributing to projects that explore AI-assisted educational psychology and innovative learning environments.
 
   <!-- Projects Section -->
   <section id="projects">
