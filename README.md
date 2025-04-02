@@ -60,7 +60,7 @@ I am currently a Ph.D. candidate in Environmental Science, Policy and Management
   </section>
 
 
-<!-- Awards Section -->
+<!-- Awards Section 
   <section id="awards">
     <h2>Awards &amp; Honors</h2>
     <ul>
@@ -70,6 +70,7 @@ I am currently a Ph.D. candidate in Environmental Science, Policy and Management
       <li>Outstanding Student, College of Art and Design, Nanjing Forestry University (2012, 2014, 2015)</li>
     </ul>
   </section>
+-->
   
   <!-- Teaching Experience Section -->
   <section id="teaching">
