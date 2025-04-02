@@ -20,8 +20,8 @@ I learned my Master of Social Science in Psychology (Educational Stream) from Th
 
 I have also gained valuable hands-on research experience through my roles as a research assistant at HKUST and CityU, and a research intern at The University of Hong Kong and The Chinese University of Hong Kong, contributing to projects that explore AI-assisted educational psychology and innovative learning environments.
 
-<span style="color: magenta;">My research explores how psychological insights can make AI not only smarter and more adaptable in uncertain environments but also truly explainable.</span> \
-If you’re interested in collaborating on projects at the intersection of psychology, education, and AI—whether it’s developing adaptive learning tools, designing transparent decision-making models, or exploring how cognitive heuristics enhance algorithmic efficiency—I’d love to connect!
+- 🌐 My research explores how psychological insights can make AI not only smarter and more adaptable in uncertain environments but also **truly explainable**.
+- 🧐 If you’re interested in collaborating on projects at the intersection of psychology, education, and AI—whether it’s developing adaptive learning tools, designing transparent decision-making models, or exploring how cognitive heuristics enhance algorithmic efficiency—I’d love to connect!
 
   <!-- Projects Section -->
   <section id="projects">
