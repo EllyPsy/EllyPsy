@@ -21,7 +21,6 @@ I am currently a Ph.D. candidate in Environmental Science, Policy and Management
     <h2>Projects</h2>
     <ul>
       <li>
-        margin-bottom: 2.5rem;
         <strong>Joint Project on Machine Learning with PISA2018 Data</strong><br>
         Collaborators: HKUST &amp; National Tsing Hua University (Taiwan).<br>
         • Applied a statistical physics model to manage interdependent variables to analyze and predict student learning.
@@ -42,6 +41,7 @@ I am currently a Ph.D. candidate in Environmental Science, Policy and Management
         • Investigated parent-child reading among preschoolers and supported school-based interventions for ADHD.
       </li>
     </ul>
+  </section>
 
   <!-- Publications Section -->
   <section id="publications">
@@ -59,7 +59,8 @@ I am currently a Ph.D. candidate in Environmental Science, Policy and Management
     </ul>
   </section>
 
-    <!-- Awards Section -->
+
+<!-- Awards Section -->
   <section id="awards">
     <h2>Awards &amp; Honors</h2>
     <ul>
