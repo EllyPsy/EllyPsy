@@ -67,6 +67,18 @@ I have also gained valuable hands-on research experience through my roles as a r
   </section>
 
 
+  <!-- Teaching Experience Section -->
+  <section id="teaching">
+    <h2>Teaching Experience</h2>
+    <ul>
+      <li>ENVR 4320 ESG Management and Reporting – Spring 2023</li>
+      <li>CIVL 1190 Climate Change, Big History and Sustainability – Fall 2023</li>
+      <li>ENVR 1170 Science Environment and Society: From Big Bang to Big Data – Spring 2024</li>
+      <li>ENVR 6090F ESG Management and Disclosure – Fall 2024</li>
+    </ul>
+  </section>
+
+  
 <!-- Awards Section 
   <section id="awards">
     <h2>Awards &amp; Honors</h2>
@@ -79,16 +91,6 @@ I have also gained valuable hands-on research experience through my roles as a r
   </section>
 -->
   
-  <!-- Teaching Experience Section -->
-  <section id="teaching">
-    <h2>Teaching Experience</h2>
-    <ul>
-      <li>ENVR 4320 ESG Management and Reporting – Spring 2023</li>
-      <li>CIVL 1190 Climate Change, Big History and Sustainability – Fall 2023</li>
-      <li>ENVR 1170 Science Environment and Society: From Big Bang to Big Data – Spring 2024</li>
-      <li>ENVR 6090F ESG Management and Disclosure – Fall 2024</li>
-    </ul>
-  </section>
   
 <!-- Footer -->
 
