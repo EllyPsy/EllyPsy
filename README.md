@@ -82,3 +82,14 @@ I am currently a Ph.D. candidate in Environmental Science, Policy and Management
     </ul>
   </section>
   
+<!-- Footer -->
+
+<footer>
+
+<p>&copy; 2025 Elly Cheng WANG. All Rights Reserved.</p>
+
+</footer>
+
+</body>
+
+</html>
