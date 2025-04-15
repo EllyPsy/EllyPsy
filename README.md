@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI and GAI related**
 
-- 👯 I’m looking to collaborate on **AI and education & psychology aspect**
+- 👯 I’m looking to collaborate on **AI and education /& psychology aspect**
 
 - 📫 Please reach me by **cwangdf@connect.ust.hk**
 
