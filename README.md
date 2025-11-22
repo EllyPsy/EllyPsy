@@ -15,9 +15,13 @@
 </p>
 
 I am currently a Ph.D. candidate in Environmental Science, Policy and Management (with a focus on Sustainability Education) at The Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. Tai Kai NG and Prof. Alexis LAU.
+
 I hold a Master of Social Science in Psychology (Educational Stream) from The City University of Hong Kong (CityU), a Master of Science in Sustainable Urban Development from The Hong Kong Polytechnic University, and a Bachelor of Arts in Environmental Design from Nanjing Forestry University.
+
 Through my roles as a research assistant at HKUST and CityU, and as a research intern at The University of Hong Kong and The Chinese University of Hong Kong, I have gained extensive hands-on experience in educational and psychological research. I have contributed to multiple projects involving AI-assisted educational psychology and innovative learning environments, with a strong emphasis on quantitative analysis, measurement methodologies, and the application of advanced statistical tools.
+
 📊 My research focuses on integrating psychological and educational principles into assessment technology, with expertise in applying statistical models—including familiarity with item response theory—to enhance the validity, reliability, and fairness of assessments.
+
 🎯 I am particularly interested in developing and refining assessment systems that are not only adaptive and data-informed but also transparent and equitable, aligning with international best practices in educational measurement.
 I am eager to bring my background in educational research, statistical analysis, and cross-institutional project experience to support the HKEAA's mission in providing high-quality and innovative assessment services.
 
