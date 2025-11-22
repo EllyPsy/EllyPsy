@@ -23,7 +23,6 @@ Through my roles as a research assistant at HKUST and CityU, and as a research i
 📊 My research focuses on integrating psychological and educational principles into assessment technology, with expertise in applying statistical models—including familiarity with item response theory—to enhance the validity, reliability, and fairness of assessments.
 
 🎯 I am particularly interested in developing and refining assessment systems that are not only adaptive and data-informed but also transparent and equitable, aligning with international best practices in educational measurement.
-I am eager to bring my background in educational research, statistical analysis, and cross-institutional project experience to support the HKEAA's mission in providing high-quality and innovative assessment services.
 
   <!-- Projects Section -->
   <section id="projects">
