@@ -73,28 +73,6 @@ Through my roles as a research assistant at HKUST and CityU, and as a research i
   </section>
 
 
-  <!-- Teaching Experience Section -->
-  <section id="teaching">
-    <h2>Teaching Experience</h2>
-    <ul>
-      <li>ENVR 4320 ESG Management and Reporting – Spring 2023</li>
-      <li>CIVL 1190 Climate Change, Big History and Sustainability – Fall 2023</li>
-      <li>ENVR 1170 Science Environment and Society: From Big Bang to Big Data – Spring 2024</li>
-      <li>ENVR 6090F ESG Management and Disclosure – Fall 2024</li>
-    </ul>
-  </section>
-
-  
-<!-- Awards Section 
-  <section id="awards">
-    <h2>Awards &amp; Honors</h2>
-    <ul>
-      <li>Postgraduate Scholarship, HKUST (2022 - 2026)</li>
-      <li>Excellent Graduation Design Award, College of Art and Design, Nanjing Forestry University (2015)</li>
-      <li>Faculty Scholarship, College of Art and Design, Nanjing Forestry University (2012, 2014, 2015)</li>
-      <li>Outstanding Student, College of Art and Design, Nanjing Forestry University (2012, 2014, 2015)</li>
-    </ul>
-  </section>
 -->
   
   
