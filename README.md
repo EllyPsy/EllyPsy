@@ -14,19 +14,22 @@
 <a href="https://linkedin.com/in/elly-cheng-wang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elly-cheng-wang" height="30" width="40" /></a>
 </p>
 
-I am currently a Ph.D. candidate in Environmental Science, Policy and Management (Sustainability Education) at The Hong Kong University of Science and Technology (HKUST), working under the guidance of Prof. Tai Kai NG and Prof. Alexis LAU.
-
-I learned my Master of Social Science in Psychology (Educational Stream) from The City University of Hong Kong (CityU) and my Master of Science in Sustainable Urban Development from The Hong Kong Polytechnic University, and I received my Bachelor of Arts in Environmental Design from Nanjing Forestry University.
-
-I have also gained valuable hands-on research experience through my roles as a research assistant at HKUST and CityU, and a research intern at The University of Hong Kong and The Chinese University of Hong Kong, contributing to projects that explore AI-assisted educational psychology and innovative learning environments.
-
-- 🌐 My research explores how psychological insights can make AI not only smarter and more adaptable in uncertain environments but also **truly explainable**.
-- 🧐 If you’re interested in collaborating on projects at the intersection of psychology, education, and AI—whether it’s developing adaptive learning tools, designing transparent decision-making models, or exploring how cognitive heuristics enhance algorithmic efficiency—I’d love to connect!
+I am currently a Ph.D. candidate in Environmental Science, Policy and Management (with a focus on Sustainability Education) at The Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. Tai Kai NG and Prof. Alexis LAU.
+I hold a Master of Social Science in Psychology (Educational Stream) from The City University of Hong Kong (CityU), a Master of Science in Sustainable Urban Development from The Hong Kong Polytechnic University, and a Bachelor of Arts in Environmental Design from Nanjing Forestry University.
+Through my roles as a research assistant at HKUST and CityU, and as a research intern at The University of Hong Kong and The Chinese University of Hong Kong, I have gained extensive hands-on experience in educational and psychological research. I have contributed to multiple projects involving AI-assisted educational psychology and innovative learning environments, with a strong emphasis on quantitative analysis, measurement methodologies, and the application of advanced statistical tools.
+📊 My research focuses on integrating psychological and educational principles into assessment technology, with expertise in applying statistical models—including familiarity with item response theory—to enhance the validity, reliability, and fairness of assessments.
+🎯 I am particularly interested in developing and refining assessment systems that are not only adaptive and data-informed but also transparent and equitable, aligning with international best practices in educational measurement.
+I am eager to bring my background in educational research, statistical analysis, and cross-institutional project experience to support the HKEAA's mission in providing high-quality and innovative assessment services.
 
   <!-- Projects Section -->
   <section id="projects">
     <h2>Projects</h2>
     <ul>
+      <li>
+        <strong>Project on longitudinal Analysis of deliberate practice in learning</strong><br>
+        FAU, Germany.<br>
+        • Applying statistical time series modeling to capture the dynamics of an individual's learning progression and enable predictive analysis.
+      </li> 
       <li>
         <strong>Joint Project on Machine Learning with PISA2018 Data</strong><br>
         Collaborators: HKUST &amp; National Tsing Hua University (Taiwan).<br>
