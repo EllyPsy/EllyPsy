@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/elly-cheng-wang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elly-cheng-wang" height="30" width="40" /></a>
 </p>
 
-I am currently a Ph.D. candidate in Environmental Science, Policy and Management (with a focus on Sustainability Education) at The Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. Tai Kai NG and Prof. Alexis LAU.
+I am currently a Ph.D. candidate in Environmental Science, Policy and Management (with a focus on Sustainability Education) at The Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. Tai Kai NG and Prof. Alexis LAU. To further my research, I am currently a Visiting Scholar at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), working with Prof. Albert Ziegler, which provides me with invaluable international perspectives on educational assessment and research methodologies.
 
 I hold a Master of Social Science in Psychology (Educational Stream) from The City University of Hong Kong (CityU), a Master of Science in Sustainable Urban Development from The Hong Kong Polytechnic University, and a Bachelor of Arts in Environmental Design from Nanjing Forestry University.
 
