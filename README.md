@@ -61,13 +61,13 @@ Through my roles as a research assistant at HKUST and CityU, and as a research i
     <h2>Publications</h2>
     <ul>
       <li>
-        Wang, E. C.*, Guan, X., Chen, X., &amp; Ng, T. K. (2024). <em>Assessing Mindset States of Hong Kong Secondary Students Using Machine Learning in Real-World Online Learning Environment</em>. Computers & Education. <a href="[https://doi.org/10.1002/ijop.13248](https://doi.org/10.1016/j.compedu.2025.105554)" target="_blank">DOI Link</a>
+        Wang, E. C.*, Guan, X., Chen, X., &amp; Ng, T. K. (2024). <em>Assessing Mindset States of Hong Kong Secondary Students Using Machine Learning in Real-World Online Learning Environment</em>. Computers & Education. <a href="https://doi.org/10.1016/j.compedu.2025.105554" target="_blank">https://doi.org/10.1016/j.compedu.2025.105554</a>
       </li>
       <li>
-        Zou, H., Tang, D., Chen, Z., Wang, E. C., &amp; Zhang, W. (2024). <em>The effect of social anxiety, impulsiveness, self-esteem on non-suicidal self-injury among college students: A conditional process model</em>. International Journal of Psychology. <a href="https://doi.org/10.1002/ijop.13248" target="_blank">DOI Link</a>
+        Zou, H., Tang, D., Chen, Z., Wang, E. C., &amp; Zhang, W. (2024). <em>The effect of social anxiety, impulsiveness, self-esteem on non-suicidal self-injury among college students: A conditional process model</em>. International Journal of Psychology. <a href="https://doi.org/10.1002/ijop.13248" target="_blank">https://doi.org/10.1002/ijop.13248</a>
       </li>
       <li>
-        Wang, C.*, Huang, Y., &amp; Xiao, Y. (2021). <em>The Mediating Effect of Social Problem-Solving Between Perfectionism and Subjective Well-Being</em>. Frontiers in Psychology, 12, 5824. <a href="https://doi.org/10.3389/fpsyg.2021.764976" target="_blank">DOI Link</a>
+        Wang, C.*, Huang, Y., &amp; Xiao, Y. (2021). <em>The Mediating Effect of Social Problem-Solving Between Perfectionism and Subjective Well-Being</em>. Frontiers in Psychology, 12, 5824. <a href="https://doi.org/10.3389/fpsyg.2021.764976" target="_blank">https://doi.org/10.3389/fpsyg.2021.764976</a>
       </li>
     </ul>
   </section>
