@@ -61,7 +61,7 @@ Through my roles as a research assistant at HKUST and CityU, and as a research i
     <h2>Publications</h2>
     <ul>
       <li>
-        Wang, E. C.*, Guan, X., Chen, X., &amp; Ng, T. K. (2024). <em>Assessing Mindset States of Hong Kong Secondary Students Using Machine Learning in Real-World Online Learning Environment</em> (Under Review)
+        Wang, E. C.*, Guan, X., Chen, X., &amp; Ng, T. K. (2024). <em>Assessing Mindset States of Hong Kong Secondary Students Using Machine Learning in Real-World Online Learning Environment</em>. Computers & Education. <a href="[https://doi.org/10.1002/ijop.13248](https://doi.org/10.1016/j.compedu.2025.105554)" target="_blank">DOI Link</a>
       </li>
       <li>
         Zou, H., Tang, D., Chen, Z., Wang, E. C., &amp; Zhang, W. (2024). <em>The effect of social anxiety, impulsiveness, self-esteem on non-suicidal self-injury among college students: A conditional process model</em>. International Journal of Psychology. <a href="https://doi.org/10.1002/ijop.13248" target="_blank">DOI Link</a>
